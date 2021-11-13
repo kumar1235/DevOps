@@ -14,7 +14,7 @@ JFrog Artifactory is a universal DevOps solution providing end-to-end automation
     yum install java-1.8* -y 
    ```
 1. Download Artifactory packages onto /opt/   
-   For Latest version of Artifactory OSS [download it from here](https://jfrog.com/open-source/)   
+   For Latest version of Artifactory OSS [download it from here](https://jfrog.com/open-source/)  >> go with the zip file OSS 6.9.6 
 For Older version of Artifactory OSS [download it from here](https://jfrog.bintray.com/artifactory/)   
 For Latest version of Artifactory Pro [download it from here](https://jfrog.com/artifactory/)
 
